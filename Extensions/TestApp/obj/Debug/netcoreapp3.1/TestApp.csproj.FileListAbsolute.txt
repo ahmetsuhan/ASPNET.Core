@@ -1,0 +1,16 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\Extension.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\bin\Debug\netcoreapp3.1\Extension.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache

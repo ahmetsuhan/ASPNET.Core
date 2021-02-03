@@ -1,0 +1,8 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\bin\Debug\netcoreapp3.1\Extension.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\bin\Debug\netcoreapp3.1\Extension.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\bin\Debug\netcoreapp3.1\Extension.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\obj\Debug\netcoreapp3.1\Extension.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.1_ders\Extension\obj\Debug\netcoreapp3.1\Extension.pdb
