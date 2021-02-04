@@ -34,5 +34,5 @@
         
         yukarıdaki AllowMultiple özelliği eğer bir yerlerden inherit alınmışsa oralarda da uygulansın mı? true yaaprsak diğer alt classlarınada bu attribute ü uygular.
     
-
+#### Örnek bir Attribute kullanımı --> <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/Attribute_Reflection">Click Here</a>
 
