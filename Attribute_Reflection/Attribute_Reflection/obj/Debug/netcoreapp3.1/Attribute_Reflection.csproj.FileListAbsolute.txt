@@ -1,0 +1,13 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\bin\Debug\netcoreapp3.1\Attribute_Reflection.exe
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\bin\Debug\netcoreapp3.1\Attribute_Reflection.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\bin\Debug\netcoreapp3.1\Attribute_Reflection.runtimeconfig.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\bin\Debug\netcoreapp3.1\Attribute_Reflection.runtimeconfig.dev.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\bin\Debug\netcoreapp3.1\Attribute_Reflection.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\bin\Debug\netcoreapp3.1\Attribute_Reflection.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.csprojAssemblyReference.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.2_ders\Attribute_Reflection\Attribute_Reflection\obj\Debug\netcoreapp3.1\Attribute_Reflection.genruntimeconfig.cache
