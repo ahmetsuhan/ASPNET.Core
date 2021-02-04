@@ -36,3 +36,4 @@
     
 #### Örnek bir Attribute kullanımı --> <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/Attribute_Reflection">Click Here</a>
 
+## ModelDto and Validations -->  <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/ModelDto_and_Validation">Click Here</a>
