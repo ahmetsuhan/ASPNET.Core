@@ -38,7 +38,7 @@
 
 ## ModelDto and Validations -->  <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/ModelDto_and_Validation">Click Here</a>
 
-## Abstract and Interface
+## Abstract and Interface --> <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/Abstract_Interface">Click Here</a>  
 
 ### Abstract class : 
 
