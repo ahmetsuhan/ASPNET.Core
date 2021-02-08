@@ -1,0 +1,13 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\bin\Debug\netcoreapp3.1\Abstract_Interface.exe
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\bin\Debug\netcoreapp3.1\Abstract_Interface.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\bin\Debug\netcoreapp3.1\Abstract_Interface.runtimeconfig.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\bin\Debug\netcoreapp3.1\Abstract_Interface.runtimeconfig.dev.json
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\bin\Debug\netcoreapp3.1\Abstract_Interface.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\bin\Debug\netcoreapp3.1\Abstract_Interface.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.csprojAssemblyReference.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\Dersler\Hafta2\DersNotu-1\Hafta2.4_ders\Abstract_Interface\Abstract_Interface\obj\Debug\netcoreapp3.1\Abstract_Interface.genruntimeconfig.cache
