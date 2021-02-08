@@ -37,3 +37,30 @@
 #### Örnek bir Attribute kullanımı --> <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/Attribute_Reflection">Click Here</a>
 
 ## ModelDto and Validations -->  <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/ModelDto_and_Validation">Click Here</a>
+
+## Abstract and Interface
+
+### Abstract class : 
+
+    Bir class birden fazla Abstract class'tan inherit alamaz.
+    Eğer bir nesne abstract bir classtan inherit almışsa, kendi constructorından önce inherit aldığı abstract classın constructorını        çağırır.
+    Abstract tipler new lenemez.
+    Abstract class içerisindeki virtual metod child classlarında override edilmişse Abstract classın constructorı override edilen metodları çağırır kendi virtual metodu çalışmaz. Override etmeyen child class varsa o child class Base alınan Abstract classtaki methodu çalıştırmış olur. (Sample2)
+    Abstract classlarda constructor chain vardır yani birbirlerine bağlıdırlar. Sırayla çalışırlar.
+#### Abstract sınıf içerisinde metot tanımlaması:
+    1-) Virtual method --> methodu child sınıflarda override edebilirsin/etmeyedebilirsin. Edersen kendi methodun çalışır etmezsen Abstract class içerisindeki hali ile çalışır.
+    2-) Abstract method --> Abstract class alt sınıflarda mecburen implemente edilir ve Abstract methodların bodysi olmaz.
+        public abstract Test(); şeklinde tanımlanır.
+    3-) Public method
+    
+### Interface :   
+ 
+     Can do ilişkisi var. 
+     İçerisinde yazılan methodların bodysi olmaz. 
+     Interfaceten inherit alan classlar interface'in metodlarını implemente etmek zorundadır. Sadece metod değil propertilerde.
+     Interface'lerde field tanımı yapılamaz.
+     Bir class birden fazla interface'ten inherit almış olabilir.
+     Bir sınıfın sahip olduğu nitelikleri belirtmek amaçlı kullanılır.
+     Erişim belirtme diye bir yöntem yok.(public,protected falan yok).
+     
+    
