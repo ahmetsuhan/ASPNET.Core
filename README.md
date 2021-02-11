@@ -77,5 +77,13 @@
    ### Method Injection <a href="https://github.com/ahmetsuhan/ASPNET.Core/blob/main/InjectionLifeCycle/InjectionLifeCycle/Controllers/MethodInjection.cs">Click</a>
             Eğer ben inject ettiğim şeyi controllera geçirmek ihtiyacı değilse Method Injection kullanabilirim. Bir aksiyona bir metoda özel direkt methodlara inject yapabiliyorum.
    ### Property Injection <a href="https://github.com/ahmetsuhan/ASPNET.Core/blob/main/InjectionLifeCycle/InjectionLifeCycle/Controllers/PropertyInjection.cs">Click</a>
+   
+   <hr>
+   
+   ## Middleware
+            Request ile Response Pipeline ini handle etmek için kullanılan yapılardır.
+            
+            use : iki middleware arasına gimek için kullanırız
+            run : middlewarele rarasındaki chain bağlantıyı kopartır. Yani run dan sonraki middlewareler çalışmaz.
             
         
