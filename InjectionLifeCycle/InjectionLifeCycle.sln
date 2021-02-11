@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Injection", "Injection", "{41BA30EB-D7E7-4E41-921B-39876B339BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionLifeCycle", "InjectionLifeCycle\InjectionLifeCycle.csproj", "{E2938D8E-3813-4B5D-BC26-53590FB7AB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2938D8E-3813-4B5D-BC26-53590FB7AB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2938D8E-3813-4B5D-BC26-53590FB7AB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2938D8E-3813-4B5D-BC26-53590FB7AB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2938D8E-3813-4B5D-BC26-53590FB7AB75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E2938D8E-3813-4B5D-BC26-53590FB7AB75} = {41BA30EB-D7E7-4E41-921B-39876B339BC6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3947B708-4B72-4DF9-AF21-D4011956A338}
+	EndGlobalSection
+EndGlobal
