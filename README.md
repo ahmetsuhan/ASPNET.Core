@@ -63,7 +63,7 @@
      Bir sınıfın sahip olduğu nitelikleri belirtmek amaçlı kullanılır.
      Erişim belirtme diye bir yöntem yok.(public,protected falan yok).
      
-  ## InjectionLifeCycle
+ ## InjectionLifeCycle
   
   ### 1-) Transient 
             Bir request içerisinde Transient olarak ayağa kaldırdığımız nesneyi istediğin kadar çağır her çağırdığında yeni bir nesnedir. Oluşturulması istenen nesneden her requeste yenisini oluşturuyor. Request bitince her şey biter:)
@@ -72,4 +72,10 @@
   ### 3-) Scoped 
             Bir request içerisinde Scoped ile ayağa kaldırılan bir nesne istediğin kadar çağır ilk oluşan nesne neyse ondan bir instance alıp bize verir. Yeni bir nesne veriyor ama ilk oluşan nesne onun aynısını veriyor.
         
-    
+   ### Constructor Injection 
+            Injectionın constructor içerisinde alınması. --> click
+   ### Method Injection 
+            Eğer ben inject ettiğim şeyi controllera geçirmek ihtiyacı değilse Method Injection kullanabilirim. Bir aksiyona bir metoda özel direkt methodlara inject yapabiliyorum.
+   ### Property Injection
+            
+        
