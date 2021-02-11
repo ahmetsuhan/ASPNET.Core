@@ -63,4 +63,13 @@
      Bir sınıfın sahip olduğu nitelikleri belirtmek amaçlı kullanılır.
      Erişim belirtme diye bir yöntem yok.(public,protected falan yok).
      
+  ## InjectionLifeCycle
+  
+  ### 1-) Transient 
+            Bir request içerisinde Transient olarak ayağa kaldırdığımız nesneyi istediğin kadar çağır her çağırdığında yeni bir nesnedir. Oluşturulması istenen nesneden her requeste yenisini oluşturuyor. Request bitince her şey biter:)
+  ### 2-) Singleton
+            Proje ayakta olduğu sürece değer değişmez.
+  ### 3-) Scoped 
+            Bir request içerisinde Scoped ile ayağa kaldırılan bir nesne istediğin kadar çağır ilk oluşan nesne neyse ondan bir instance alıp bize verir. Yeni bir nesne veriyor ama ilk oluşan nesne onun aynısını veriyor.
+        
     
