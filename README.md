@@ -84,6 +84,6 @@
             Request ile Response Pipeline ini handle etmek için kullanılan yapılardır.
             
             use : iki middleware arasına gimek için kullanırız
-            run : middlewarele rarasındaki chain bağlantıyı kopartır. Yani run dan sonraki middlewareler çalışmaz.
+            run : middlewareler arasındaki chain bağlantıyı kopartır. Yani run dan sonraki middlewareler çalışmaz.
             
         
