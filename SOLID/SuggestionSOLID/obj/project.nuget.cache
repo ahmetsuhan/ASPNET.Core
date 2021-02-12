@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hfx23K4AtZrZkNBHZxdjZH/rbGBFP00gAU9J3Cf0lQQAfzttJ06qoGlN5/JlTdyL8pEHOnQ6ZZRE9wEOKv9zYg==",
+  "success": true,
+  "projectFilePath": "D:\\Kodluyoruz_YemekSepeti_FullStack\\KendiCalismalarim\\Hafta_3\\Cumartesi\\Solid\\SOLID\\SuggestionSOLID\\SuggestionSOLID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karek\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.10\\microsoft.extensions.dependencyinjection.3.1.10.nupkg.sha512",
+    "C:\\Users\\karek\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.10\\microsoft.extensions.dependencyinjection.abstractions.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

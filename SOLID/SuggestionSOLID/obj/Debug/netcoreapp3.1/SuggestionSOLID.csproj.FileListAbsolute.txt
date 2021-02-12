@@ -1,0 +1,16 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\SuggestionSOLID.exe
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\SuggestionSOLID.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\SuggestionSOLID.runtimeconfig.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\SuggestionSOLID.runtimeconfig.dev.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\SuggestionSOLID.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\SuggestionSOLID.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.csprojAssemblyReference.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.csproj.CopyComplete
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\SuggestionSOLID\obj\Debug\netcoreapp3.1\SuggestionSOLID.genruntimeconfig.cache

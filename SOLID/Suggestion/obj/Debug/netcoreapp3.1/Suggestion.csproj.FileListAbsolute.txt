@@ -1,0 +1,13 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\bin\Debug\netcoreapp3.1\Suggestion.exe
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\bin\Debug\netcoreapp3.1\Suggestion.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\bin\Debug\netcoreapp3.1\Suggestion.runtimeconfig.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\bin\Debug\netcoreapp3.1\Suggestion.runtimeconfig.dev.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\bin\Debug\netcoreapp3.1\Suggestion.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\bin\Debug\netcoreapp3.1\Suggestion.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.csprojAssemblyReference.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_3\Cumartesi\Solid\SOLID\Suggestion\obj\Debug\netcoreapp3.1\Suggestion.genruntimeconfig.cache
