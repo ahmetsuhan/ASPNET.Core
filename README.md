@@ -6,6 +6,7 @@
     1-) Class static olmalı.
     2-)Method Static olmalı.
     3-)this keywordu ilk parametre oalrak belirlenmeli
+    4-)işlevini yerine getirebilmesi/programın extension'ı tanıması için build almamız gerek!
 ### Neden Extension ? 
 
     1-)Kod akışımızda ve ekip içerisinde bir bütünlük oluşturmak.
