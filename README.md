@@ -89,7 +89,7 @@
             
   <hr>
   
-  ## SOLID
+  ## SOLID <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/SOLID">Click</a>
         SOLID OOP tabanlı programlama da iyi kod yazılması için kullanılması gereken temel prensipler bütünüdür diyebiliriz. 
             -Kodlar arası bağımlılığın az olmasını sağlar.
             -Kodun okunabilirliğini artırır.
@@ -109,6 +109,8 @@
             D --> Dependency Inversion Principle
                     - Sınıflar arası bağımlılıklar olabildiğince az olmalıdır özellikle üst seviye sınıflar alt seviye sınıflara bağımlı olmamalıdır.
                     
-  ### Bad usage of SOLID ex --> 
-  ### Much better usage rather than prev SOLID ex --> 
+  ### Bad usage of SOLID ex --> <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/SOLID/Suggestion">Click</a>
+  ### Much better usage rather than prev SOLID ex --> <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/SOLID/SuggestionSOLID">Click</a>
+  
+  <hr>
   
