@@ -81,10 +81,34 @@
    
    <hr>
    
-   ## Middleware
+   ## Middleware <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/Middleware/Middleware">Click</a>
             Request ile Response Pipeline ini handle etmek için kullanılan yapılardır.
             
             use : iki middleware arasına gimek için kullanırız
             run : middlewareler arasındaki chain bağlantıyı kopartır. Yani run dan sonraki middlewareler çalışmaz.
             
-        
+  <hr>
+  
+  ## SOLID
+        SOLID OOP tabanlı programlama da iyi kod yazılması için kullanılması gereken temel prensipler bütünüdür diyebiliriz. 
+            -Kodlar arası bağımlılığın az olmasını sağlar.
+            -Kodun okunabilirliğini artırır.
+            -Kod tekrarını önler
+            -Yapının genişletilebilir olmasını sağlar. Ek olarak yapıyı genişletirken mevcut kodlara zarar verme oranını minimuma indirir.
+            
+            S --> Single-responsibility principle
+                    - Bir sınıf (nesne) yalnızca bir amaç uğruna değiştirilebilir, o da o sınıfa yüklenen sorumluluktur, yani bir sınıfın(fonksiyona da indirgenebilir) 
+                       yapması gereken yalnızca bir işi olması gerekir.
+            O --> Open-closed principle
+                    - Bir sınıf ya da fonksiyon halihazırda var olan özellikleri korumalı ve değişikliğe izin vermemelidir. Yani davranışını değiştirmiyor olmalı ve yeni
+                      özellikler kazanabiliyor olmalıdır.
+            L --> Liskov substitution principle
+                    - Kodlarımızda herhangi bir değişiklik yapmaya gerek duymadan alt sınıfları, türedikleri(üst) sınıfların yerine kullanabilmeliyiz.
+            I --> Interface segregation principle
+                    - Sorumlulukların hepsini tek bir arayüze toplamak yerine daha özelleştirilmiş birden fazla arayüz oluşturmalıyız.
+            D --> Dependency Inversion Principle
+                    - Sınıflar arası bağımlılıklar olabildiğince az olmalıdır özellikle üst seviye sınıflar alt seviye sınıflara bağımlı olmamalıdır.
+                    
+  ### Bad usage of SOLID ex --> 
+  ### Much better usage rather than prev SOLID ex --> 
+  
