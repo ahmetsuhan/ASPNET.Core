@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareApp", "MiddlewareApp\MiddlewareApp.csproj", "{8E9A6D43-0A9E-44CA-A434-9CD05FD9E68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMiddleware", "CustomMiddleware\CustomMiddleware.csproj", "{09740766-D634-4710-AEDF-B0B9BB40C511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E9A6D43-0A9E-44CA-A434-9CD05FD9E68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E9A6D43-0A9E-44CA-A434-9CD05FD9E68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E9A6D43-0A9E-44CA-A434-9CD05FD9E68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E9A6D43-0A9E-44CA-A434-9CD05FD9E68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09740766-D634-4710-AEDF-B0B9BB40C511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09740766-D634-4710-AEDF-B0B9BB40C511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09740766-D634-4710-AEDF-B0B9BB40C511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09740766-D634-4710-AEDF-B0B9BB40C511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9C2F4B9-E33D-4223-BF8A-3FF3D274DA95}
+	EndGlobalSection
+EndGlobal
