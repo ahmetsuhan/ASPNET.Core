@@ -1,0 +1,13 @@
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.exe
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.deps.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.runtimeconfig.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.runtimeconfig.dev.json
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.csprojAssemblyReference.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.AssemblyInfoInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.AssemblyInfo.cs
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.csproj.CoreCompileInputs.cache
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.dll
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.pdb
+D:\Kodluyoruz_YemekSepeti_FullStack\KendiCalismalarim\Hafta_4\Cumartesi\CleanCode\CleanCode\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.genruntimeconfig.cache
