@@ -114,3 +114,15 @@
   
   <hr>
   
+  ## Clean Code 
+    "Sadece iyi yazılımcılar insanların anlayabileceği kodu yazar, geriye kalan tüm yazılımcılar her türlü zaten kod yazıyorlar " - Martin Fowler
+    
+   ### Boolean Karşılaştırma
+        - Sadelik ve okunabilirlik ön planda olmalı !
+        - Pozitif ol
+        - Use Ternary if
+        - Use Strongly Type not Stringly Type! Avoid magic string with using enums, const an readonly acording to your necessity!
+        - Başıboş ifadelerden kaçın! (Avoid stray expressions!)
+        - Karmaşık ifadelerin sadeleştirilmesi (keep complex expressions simple)
+   ### 
+  
