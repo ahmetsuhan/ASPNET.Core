@@ -114,7 +114,7 @@
   
   <hr>
   
-  ## Clean Code 
+  ## Clean Code <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/CleanCode">Click</a>   
     "Sadece iyi yazılımcılar insanların anlayabileceği kodu yazar, geriye kalan tüm yazılımcılar her türlü zaten kod yazıyorlar " - Martin Fowler
     
    ### Boolean Karşılaştırma
