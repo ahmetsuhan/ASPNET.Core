@@ -124,5 +124,11 @@
         - Use Strongly Type not Stringly Type! Avoid magic string with using enums, const an readonly acording to your necessity!
         - Başıboş ifadelerden kaçın! (Avoid stray expressions!)
         - Karmaşık ifadelerin sadeleştirilmesi (keep complex expressions simple)
-   ### 
+        
+   ### Methods <a href="https://github.com/ahmetsuhan/ASPNET.Core/tree/main/CleanCode/CleanCode2">Click</a> 
+        - Single responsibility principles!!!
+        - Çok fazla parametren varsa nesne şeklinde al parametrelerini
+        - İç içe giren kodlardan uzak dur!
+   
+   ###
   
