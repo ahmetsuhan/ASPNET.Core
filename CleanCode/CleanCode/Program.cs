@@ -4,6 +4,8 @@ using System.Linq;
 
 namespace CleanCode
 {
+  
+
     class Program
     {
         static void Main(string[] args)
